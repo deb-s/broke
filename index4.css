@@ -1,0 +1,94 @@
+body{
+	background-color: darkcyan;
+}
+.container{
+	background-color: lightblue;
+	width: 1000px;
+	height: 900px;
+	margin-left: 260px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+.TITLE {
+	margin-left: 425px;
+	padding-left: 13px;
+	margin-right: 400px;
+	background-color: greenyellow;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	font-family: Papyrus;
+	color: darkolivegreen;
+}
+.Quote {
+	margin-left: 417px;
+	margin-right: 390px;
+	text-align: center;
+	background-color: greenyellow;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	font-family: Papyrus;
+	color: darkolivegreen;
+}
+.Link p {
+	margin-top: 90px;
+	margin-right: 850px;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	font-family: Arial;
+}
+.Link a:link, a:visited {
+	color: darkolivegreen;
+	text-decoration-line: none;
+}
+.Link a:hover, a:active {
+	color: white;
+	text-decoration-line: none;
+}
+.Link {
+	background-color: greenyellow;
+	margin-right: 850px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin-left: 20px;
+	height: 400px;
+	font-family: Arial;
+
+}
+.IMG .first {
+	margin-top: -500px;
+	width: 250px;
+	margin-left: 250px;
+	margin-bottom: 200px;
+}
+.IMG .second {
+	margin-top: -500px;
+	width: 250px;
+	margin-left: 550px;
+	margin-bottom: 218px;
+}
+.IMG .third {
+	margin-top: -200px;
+	width: 250px;
+	margin-left: 250px;
+	margin-bottom: 200px;
+}
+.IMG .fourth {
+	margin-top: -520px;
+	width: 250px;
+	margin-left: 550px;
+	margin-bottom: 218px;
+}
+.IMG .fifth {
+	margin-top: -200px;
+	width: 250px;
+	margin-left: 395px;
+	margin-bottom: 218px;
+}
